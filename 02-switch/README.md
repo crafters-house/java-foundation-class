@@ -81,4 +81,4 @@ class SaldoContasBancarias {
 
 ```
 
-Simplão né
+Simplão né!, alguns detalhes sobre o ```switch``` ele suporta os tipos primitivos numéricos ( ```byte``` , ```short``` , ```int``` ) o primitivo  ```char``` e  ```String``` (adicionado no java 8), outro tipo também suportado é o  ```enum```, o último nós ainda não vimos mas não esquenta cabeça com ele que veremos mais tarde blz!!!
