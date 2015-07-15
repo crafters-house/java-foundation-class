@@ -2,7 +2,7 @@
 
 Curso sobre a liguagem Java, neste você aprenderá como utilizar a liguagem e suas principais funcionalidades através do seus fundamentos, entenderá como utilizar a orientação a objetos para criar softwares de forma elegante e produtiva, aplicando boas práticas de desenvolvimento desde o início.
 
-Conhecerá sobre os principais autores e colaboradores do desenvolvimento de softwares como: Martin Fowler, Robert C. Martin (Uncle Bob), Kent Beck, Eric Gamma e etc... .
+Conhecerá sobre os principais autores e colaboradores do desenvolvimento de softwares como: Martin Fowler, Robert C. Martin (Uncle Bob), Kent Beck, Eric Gamma, Eric Evan e etc... .
 
 Tudo de forma descontraída e divertida, afinal aprender precisa ser um prazer não um dever.
 
@@ -14,7 +14,6 @@ Aprenda como instalar e configurar a sua maquina, prepare seu ambiente de densen
 
 Agora que voce já configurou sua máquina, crie seu primeiro programa em Java, entenda sua estrutura, como compilá-lo e executá-lo.
 
-
 ## 3. Armazene valores, crie variáveis.
 
 Entenda uma das pricipais caracteristicas da liguagem que é sua estrutura baseada em tipos de variáveis, compreenda quando utilizar cada um dos tipos disponíveis.
@@ -25,7 +24,7 @@ Aprenda como criar, utilizar, algorítimos utilizando controladores de fluxo e o
 
 ## 5. Aumente sua produtividade com Eclipse.
 
-Aumente sua produtividade com uma das IDEs mais utilizadas do mercado Eclipse.
+Aumente sua produtividade com uma das IDEs mais utilizadas do mercado, Eclipse.
 
 ## 6. Venha para o lado Orientado Objetos da Força.
 
@@ -41,12 +40,12 @@ Até esta etapa você viu como criar programas, simples, utilizar variáveis, op
     6.6.1. Cada Classe no seu lugar
     6.7. Overloading ? Como expressar isso de uma forma simples
     6.8. Herança
-        8.1. Overiden
-        8.2. Conheça a Classe Object.
-        8.3. Entenda o Polimorfismo.
-        8.4. Classes abstrata.
-        8.5. Medotos Abstratos.
-        8.6. Template Method.
+        6.8.1. Overiden
+        6.8.2. Conheça a Classe Object.
+        6.8.3. Entenda o Polimorfismo.
+        6.8.4. Classes abstrata.
+        6.8.5. Medotos Abstratos.
+        6.8.6. Template Method.
     6.9. Trabalhe com interfaces.
     6.10. Conheça as coleções do Java.
 
@@ -61,10 +60,24 @@ Até esta etapa você viu como criar programas, simples, utilizar variáveis, op
 
 ## 8. Modele melhor o seu software com DAO
 
->       8.1 Implemendo o Pattern Dao na Munheca
-    8.2
+>
+    8.1 Refatorando o nosso "mess code" (macarronada code)
+    8.2 Implemendo o Pattern Dao na Munheca
+    8.3 Principio da segregação de responsabilidades.  
+
+
+## 9. Teste Tudo !!!
+
+Como garantir que seu código realmente funciona, somente testanto, uma vez em um evento um dos palestrantes (Klaus XXX) disse que é falta de ética criar códigos sem teste, realmente é como se você fosse fazer uma cirurgia e tivesse que perguntar para o médico se ele lavou a mão.
+
+    9.1. Conheça o TDD (Test Driven Development)
+    9.2. Conheça o JUnit.
+    9.3. Testando o DAO que acabamos de criar.
+    9.4. Principio da Empatia em código com TDD First.
+
 
 ## 9. Conheça mais sobre as bibliotecas fornecidas pelo Java
 >       9.1. Trabalhe com Datas
     9.2. Aumente o poder de suas classes Trabalhando somente com Objetos
     9.3. Aprofunde o conhecimento das coleções em Java.
+    9.4. Leia e escreva em arquivos.
