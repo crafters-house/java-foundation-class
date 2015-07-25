@@ -42,6 +42,8 @@ Até esta etapa você viu como criar programas, simples, utilizar variáveis, op
     6.8. Herança
         6.8.1. Overiden
         6.8.2. Conheça a Classe Object.
+        6.8.3. Compare Objetos.
+        6.8.3. Imprima os Valores da Instancia de forma rapida.
         6.8.3. Entenda o Polimorfismo.
         6.8.4. Classes abstrata.
         6.8.5. Medotos Abstratos.

@@ -43,7 +43,7 @@ Para representar as caracteristicas de uma classe voce deve declarar variáveis 
  */
 class Celular {
 
-    int numeroNucleos;
+    int numeroNucleosPorcessador;
 
     String marca;
 
@@ -62,12 +62,12 @@ class TesteCelular {
     public static void main(String[] args) {
 
         Celular motorolaX2G = new Celular();
-        motorolaX2G.numeroNucleos = 4;
+        motorolaX2G.numeroNucleosPorcessador = 4;
         motorolaX2G.marca = "Moto X 2G";
         motorolaX2G.fabricante = "Motorola";
 
         Celular iphone5s = new Celular();
-        iphone5s.numeroNucleos = 4;  // ps não sei se eh mesmo
+        iphone5s.numeroNucleosPorcessador = 4;  // ps não sei se eh mesmo
         iphone5s.marca = "iPhone";
         iphone5s.fabricante = "Apple";
 
@@ -75,5 +75,20 @@ class TesteCelular {
 }
 
 ```
-#### Pontos de Atenção
-> Para utilizar a classe **Celular** é necessário criar uma ```instancia```, ou seja, um objeto **Celular** que possuirá as caracteristicas determinadas pela classe, que no exemplo apresentado pelo trecho ```Celular motorolaX2G = new Celular()```.
+## Pontos de Atenção
+
+> Para utilizar uma classe, é necessário\*\* criar uma ***instância*** utilizando a seguinte sintaxe.
+
+> ```java
+   <TipoClasse> <nomeVariável> = new <TipoClasse> ();
+  ```
+
+> Por isso que para utilizar a classe **Celular** foi necessário criar uma ```instancia```, ou seja, um objeto **Celular** que possuirá as caracteristicas determinadas pela classe, que no exemplo apresentado pelo trecho:
+>
+```java
+Celular motorolaX2G = new Celular();
+```
+> Toda vez que você encontrar um trecho de código com a palavra reservada ```new <TipoClasse>()``` isso significa que lá será criada uma instância daquele tipo na Memória ***Heap*** do Java.
+
+
+[objeto:https://docs.google.com/drawings/d/1SZHfWcwgy7Ibrq9Eum57Ep1vGEGKEwMtbHHWTPdyCx8/edit]
