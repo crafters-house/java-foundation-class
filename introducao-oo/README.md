@@ -91,4 +91,4 @@ Celular motorolaX2G = new Celular();
 > Toda vez que você encontrar um trecho de código com a palavra reservada ```new <TipoClasse>()``` isso significa que lá será criada uma instância daquele tipo na Memória ***Heap*** do Java.
 
 
-[objeto:https://docs.google.com/drawings/d/1SZHfWcwgy7Ibrq9Eum57Ep1vGEGKEwMtbHHWTPdyCx8/edit]
+![Objeto na Heap](Objetos na Heap.png)
