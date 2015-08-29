@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Primeira Parte
+* [Primeira Parte](part1-introduction.md)
 
