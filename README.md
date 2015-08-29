@@ -28,10 +28,10 @@ Aumente sua produtividade com uma das IDEs mais utilizadas do mercado, Eclipse.
 
 ## 6. Venha para o lado Orientado Objetos da Força.
 
-Até esta etapa você viu como criar programas, simples, utilizar variáveis, operadores e controladores para criar algoritimos agora chegou a hora ("Daniel San") de você ampliar seu conhecimento e iniciar seu "treinamento" no "Judso" da Orientação a Objetos!!!!.
+Até esta etapa você viu como criar programas, simples, utilizar variáveis, operadores e controladores para criar algoritimos agora chegou a hora ("Daniel San") de você ampliar seu conhecimento e iniciar seu "treinamento" no "Jutsu" da Orientação a Objetos!!!!.
 
 
->      6.1. Criando classes
+>     6.1. Criando classes
     6.2. Trabalhe o comportamento de seus Objetos.
     6.3. Entenda o ciclo de vida dos Objetos
     6.4. Trabahe com coleções de objetos, utilizando Arrays

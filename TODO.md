@@ -1,19 +1,22 @@
 # Java Foundation Class
 
 1. Instale e configure o Java.
+
     1. PPT   - ok
     2. Video - ok
     3. edols - ok
-
+    4. book.md  
 2. Crie seu primeiro Programa em Java.
     1. PPT   - ok
     2. Video - ok
     3. edols - ok
+    4. book.md  
 
 3. Armazene valores, crie variáveis.
     1. PPT   - ok
     2. Video - ok
     3. edols - ok
+    4. book.md  
 
 4. Crie algorítimos simples e complexos através do uso de controladores
 

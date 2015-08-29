@@ -83,12 +83,11 @@ class TesteCelular {
    <TipoClasse> <nomeVariável> = new <TipoClasse> ();
   ```
 
-> Por isso que para utilizar a classe **Celular** foi necessário criar uma ```instancia```, ou seja, um objeto **Celular** que possuirá as caracteristicas determinadas pela classe, que no exemplo apresentado pelo trecho:
+> Por isso que para utilizar a classe **Celular** foi necessário criar uma ```instancia```, ou seja, um objeto **Celular** que possuirá todas as caracteristicas determinadas pela classe, observe o exemplo de criação de instância abaixo.
 >
 ```java
 Celular motorolaX2G = new Celular();
 ```
-> Toda vez que você encontrar um trecho de código com a palavra reservada ```new <TipoClasse>()``` isso significa que lá será criada uma instância daquele tipo na Memória ***Heap*** do Java.
+> Toda vez que você encontrar um trecho de código com a palavra reservada ```new <TipoClasse>()```, no caso representado pelo ``` new Celular()``` , significará que uma instância daquela classe será criada na Memória ***Heap*** do Java.  
 
-
-![Objeto na Heap](Objetos na Heap.png)
+![Objeto na Heap](../img/introducao-oo/newTipo-Heap.png)
