@@ -4,6 +4,6 @@
 * Criando o nosso Primeiro Programa
 * Trabalhando com Variáveis
 * Operadores e Controlandores de Fluxo
-* Afiando o Machado com Eclipse
+* [Aumente sua produtividade com Eclipse](introducao-eclipse/readme.md)
 * 
 
