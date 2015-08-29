@@ -7,5 +7,5 @@
        * [Armazene valores, crie variáveis](part1/variables,md)
        * Crie algorítimos simples e complexos através do uso de controladores
        * [Aumente sua produtividade com Eclipse](introducao-eclipse/readme.md)
-   * [Segunda Parte](part2/README.md)
+   * [Venha para o lado Orientado Objetos da Força](part2/README.md)
 
