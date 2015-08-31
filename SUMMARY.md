@@ -11,7 +11,7 @@
        * [Controlador if](part1/controladores/01-if/README.md)
        * [Controlador switch](part1/controladores/02-switch/README.md)
        * [Controlador while](part1/controladores/03-while/README.md)
-       * [Controlador for](part1/controladores/04-for/README)
+       * [Controlador for](part1/controladores/04-for/README.md)
    * [Aumente sua produtividade com Eclipse](part1/introducao-eclipse.md)
 * [Capítulo 2 - Venha para o lado Orientado Objetos da Força](part2/README.md)
    * [Criando classes](part2/creating-classes.md)
