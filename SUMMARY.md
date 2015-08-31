@@ -8,7 +8,7 @@
    * [Criando o nosso Primeiro Programa](part1/frist-java-class.md)
    * [Armazene valores, crie variáveis](part1/variables,md)
    * [Crie algorítimos simples e complexos através do uso de controladores](part1/controladores/README.md)
-       * [Controlador if](part1/01-if/README.md)
+       * [Controlador if](part1/controladores/01-if/README.md)
        * Controlador switch
        * [Controlador while](part1/02-switch/README.md)
        * Controlador for
