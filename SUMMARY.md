@@ -14,7 +14,7 @@
        * [Controlador for](part1/controladores/04-for/README.md)
    * [Aumente sua produtividade com Eclipse](part1/introducao-eclipse.md)
 * [Capítulo 2 - Venha para o lado Orientado Objetos da Força](part2/README.md)
-   * [Criando classes](part2/creating-classes.md)
+   * [Criando classes](introducao-oo/creating-classes.md)
    * [Trabalhe o comportamento de seus Objetos]
    * [Entenda o ciclo de vida dos Objetos]
    * [Trabahe com coleções de objetos, utilizando Arrays]
