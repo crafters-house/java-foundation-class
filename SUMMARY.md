@@ -11,6 +11,7 @@
        * Controlador if
        * Controlador switch
        * Controlador while
+       * Controlador for
    * [Aumente sua produtividade com Eclipse](part1/introducao-eclipse.md)
 * [Capítulo 2 - Venha para o lado Orientado Objetos da Força](part2/README.md)
    * [Criando classes](part2/creating-classes.md)
