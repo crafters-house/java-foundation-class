@@ -10,6 +10,7 @@
    * [Crie algorítimos simples e complexos através do uso de controladores](part1/controladores/README.md)
        * Controlador if
        * Controlador switch
+       * Controlador while
    * [Aumente sua produtividade com Eclipse](part1/introducao-eclipse.md)
 * [Capítulo 2 - Venha para o lado Orientado Objetos da Força](part2/README.md)
    * [Criando classes](part2/creating-classes.md)
