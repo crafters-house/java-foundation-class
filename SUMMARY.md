@@ -9,7 +9,7 @@
    * [Armazene valores, crie variáveis](part1/variables,md)
    * [Crie algorítimos simples e complexos através do uso de controladores](part1/controladores/README.md)
        * [Controlador if](part1/controladores/01-if/README.md)
-       * [Controlador switch](part1/controladores/02-while/README.md)
+       * [Controlador switch](part1/controladores/02-switch/README.md)
        * [Controlador while](part1/controladores/03-while/README.md)
        * Controlador for
    * [Aumente sua produtividade com Eclipse](part1/introducao-eclipse.md)
