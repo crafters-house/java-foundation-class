@@ -88,6 +88,6 @@ class TesteCelular {
 ```java
 Celular motorolaX2G = new Celular();
 ```
-> Toda vez que você encontrar um trecho de código com a palavra reservada ```new <TipoClasse>()```, no caso representado pelo ``` new Celular()``` , significará que uma instância daquela classe será criada na Memória ***Heap*** do Java.  
+> Toda vez que você encontrar um trecho de código com a palavra reservada `new <TipoClasse>()`, no caso representado pelo `new Celular()`, significará que uma instância daquela classe será criada na Memória ***Heap*** do Java.  
 
 ![Objeto na Heap](../img/introducao-oo/newTipo-Heap.png)
