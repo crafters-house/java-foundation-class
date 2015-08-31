@@ -2,7 +2,7 @@
 
 Aprenda como criar, utilizar, algorítimos utilizando controladores de fluxo e operadores.
 
-* [Controlador ***if***](,controladores/01-if/README.md)
-* [Controlador ***switch***](.,controladores/02-switch/README.md)
-* [Controlador ***while***](.controladores/03-while/README.md)
-* [Controlador ***for***](.controladores/04-for/README.md)
+* [Controlador ***if***](01-if/README.md)
+* [Controlador ***switch***](02-switch/README.md)
+* [Controlador ***while***](03-while/README.md)
+* [Controlador ***for***](04-for/README.md)
