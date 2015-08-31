@@ -13,7 +13,7 @@
        * [Controlador while](part1/controladores/03-while/README.md)
        * [Controlador for](part1/controladores/04-for/README.md)
    * [Aumente sua produtividade com Eclipse](part1/introducao-eclipse.md)
-* [Capítulo 2 - Venha para o lado Orientado Objetos da Força](part2/README.md)
+* [Capítulo 2 - Venha para o lado Orientado Objetos da Força](introducao-oo/README.md)
    * [Criando classes](introducao-oo/creating-classes.md)
    * [Trabalhe o comportamento de seus Objetos]
    * [Entenda o ciclo de vida dos Objetos]
