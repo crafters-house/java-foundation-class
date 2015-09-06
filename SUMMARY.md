@@ -14,6 +14,6 @@
    * [Aumente sua produtividade com Eclipse](part1/introducao-eclipse.md)
 * [Capítulo 2 - Venha para o lado Orientado Objetos da Força](introducao-oo/README.md)
    * [Criando classes](introducao-oo/creating-classes.md)
-   * [[Trabalhe o comportamento de seus Objetos]](/part2/introducao-oo/comportamento-classes.md)
+   * [Defina o comportamento de seus Objetos](part2/introducao-oo/comportamento-classes.md)
 * [Capítulo 3 - Novos Jutsus, técnicas para virar um Super Dev](part3/README.md)
 
