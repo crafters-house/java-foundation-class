@@ -15,4 +15,4 @@ Olhando novamente para o exemplo do Celular quais seriam seus comportamentos? Pr
 Nossa com os smart phones esta lista fica monstruosa né, bom mas é um bom exemplo de comportamentos que nossos objetos podem ter.
 
 Vamos ver como podemos representa-los através nossa classe **```Celular```**
-****
+
