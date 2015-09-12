@@ -34,9 +34,10 @@ class Celular {
 ```
 
 #### Como representamos as suas caracteristicas?
-Para representar as caracteristicas de uma classe voce deve declarar variáveis no corpo da **classe**, estas também são chamadas de variáveis de instância, conforme o exemplo abaixo.
+Para representar as caracteristicas de uma classe você deve declarar variáveis no corpo da **classe**, estas também são chamadas de variáveis de instância ou atributos de instância, conforme o exemplo abaixo.
 
 ```java
+
 /**
  * Classe responsável por representar o aparelho de Celular
  * @author: ercarval
