@@ -1,13 +1,12 @@
-#Controlador *switch*
+# Controlador switch
 
-Galera *"Javistica"* vamos ver como funciona o controlador ```switch```. Esse carinha funciona como se fosse um ```if``` porém ao invés de avaliar uma condição ```boolean``` ele avalia o valor da variável.
+Galera _"Javistica"_ vamos ver como funciona o controlador `switch`. Esse carinha funciona como se fosse um `if` porém ao invés de avaliar uma condição `boolean` ele avalia o valor da variável.
 
 Então vamos ver como esse trem funciona.
 
 Primeiramente vamos ver a sintaxe.
 
 ```java
-
 switch (<variavel>) {
 
   case <valor>:
@@ -24,15 +23,13 @@ switch (<variavel>) {
       break; // <-- instrução de resumo;
 
 }
-
 ```
 
-Bom agora que vimos a sintaxe básica, vamos observar alguns ***"bizus"***.
+Bom agora que vimos a sintaxe básica, vamos observar alguns _**"bizus"**_.
 
- > * O Comando de resumo ```break``` é necessário, pois, o ```switch``` faz a avaliação do valor somente uma vez, então se este comando não estiver presente o java executará os outros blocos sem qualquer avaliação.
+> * O Comando de resumo `break` é necessário, pois, o `switch` faz a avaliação do valor somente uma vez, então se este comando não estiver presente o java executará os outros blocos sem qualquer avaliação.
 
-
-Vamos ver como aplicar o ```switch``` utilizando o cenário bem simple no qual temos que identificar qual tipo de conta devemos apresentar o saldo.
+Vamos ver como aplicar o `switch` utilizando o cenário bem simple no qual temos que identificar qual tipo de conta devemos apresentar o saldo.
 
 ```java
 /**
@@ -77,8 +74,7 @@ class SaldoContasBancarias {
     }
 
 }
-
-
 ```
 
-Simplão né!, alguns detalhes sobre o ```switch``` ele suporta os tipos primitivos numéricos ( ```byte``` , ```short``` , ```int``` ) o primitivo  ```char``` e  ```String``` (adicionado no java 8), outro tipo também suportado é o  ```enum```, o último nós ainda não vimos mas não esquenta cabeça com ele que veremos mais tarde blz!!!
+Simplão né!, alguns detalhes sobre o `switch` ele suporta os tipos primitivos numéricos \( `byte` , `short` , `int` \) o primitivo `char` e `String` \(adicionado no java 8\), outro tipo também suportado é o `enum`, o último nós ainda não vimos mas não esquenta cabeça com ele que veremos mais tarde blz!!!
+
