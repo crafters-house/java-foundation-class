@@ -41,8 +41,8 @@ Todos eles você alcançará a mesma janela \(Create a Java Project\).
 ### Teclas de Atalhos
 
 > 1. **Ctrl+N** : Menu File &gt; New
->    1. **Ctrl +3** : Pesquisa em todos os menus ou comandos do Eclipse a palavra digitada, muito podero eu só uso ele ..
->    2. **Ctrl + Shift + l** : Exibe a lista de Atalhos do Eclipse, caso você esqueça de alguma pode usar ou lembrar dessa.
->    3. **Ctrl + Shift + Seta para Baixo** : Esse duplica a linha de código, ps: Verifique se sua placa de video não tem essa mesma tecla, porque senão você terá seu video invertido !!
->    4. **Alt + Shift + a** : Esse é bizu !!! Da a capacidade de escrever em coluna, muito legal, para sair do modo de escrita colunal pressione novamente as mesmas teclas.
+> 2. **Ctrl +3** : Pesquisa em todos os menus ou comandos do Eclipse a palavra digitada, muito podero eu só uso ele ..
+> 3. **Ctrl + Shift + l** : Exibe a lista de Atalhos do Eclipse, caso você esqueça de alguma pode usar ou lembrar dessa.
+> 4. **Ctrl + Shift + Seta para Baixo** : Esse duplica a linha de código, ps: Verifique se sua placa de video não tem essa mesma tecla, porque senão você terá seu video invertido !!
+> 5. **Alt + Shift + a** : Esse é bizu !!! Da a capacidade de escrever em coluna, muito legal, para sair do modo de escrita colunal pressione novamente as mesmas teclas.
 

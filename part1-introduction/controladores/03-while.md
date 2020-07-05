@@ -1,6 +1,6 @@
 # Controlador while
 
-Mais um controlador galera, este tem o papel de fazer loops, laços, ou seja, para que nós utilizamos um `while`. Geralmente quando temos que trabalhar com coleção de informações ou realizar operações repetidas vezes.
+Mais um controlador galera, este tem o papel de fazer loops, laços, ou seja, para que nós utilizamos um `while`? Geralmente quando temos que trabalhar com uma coleção de informações ou realizar operações repetidas vezes.
 
 Então vamos ver como esse trem funciona.
 

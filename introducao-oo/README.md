@@ -12,7 +12,7 @@ Mas antes observe o seu **Celular** quais são as suas **características**? Pro
 * Fabricante
 * Visor
 * Processador
-* Memoria
+* Memória
 * Sistema Operacional
 
 Se você o desmontasse, possivelmente achará mais coisas como varios micro controladores, sensores e outros componentes eletronicos né. Esses componentes eletronicos são caracteristicas dos componentes no próprio **Celular**.
@@ -74,16 +74,16 @@ class TesteCelular {
 
 ## Pontos de Atenção
 
-> Para utilizar uma classe, é necessário\*\* criar uma _**instância**_ utilizando a seguinte sintaxe.
+> Para utilizar uma classe, é necessário criar uma _**instância**_ utilizando a seguinte sintaxe.
 >
 > ```java
 >    <TipoClasse> <nomeVariável> = new <TipoClasse> ();
 > ```
 >
-> Por isso que para utilizar a classe **Celular** foi necessário criar uma `instancia`, ou seja, um objeto **Celular** que possuirá todas as caracteristicas determinadas pela classe, observe o exemplo de criação de instância abaixo.
+> Por isso que para utilizar a classe **Celular** foi necessário criar uma instancia, ou seja, um objeto **Celular** que possuirá todas as caracteristicas determinadas pela classe, observe o exemplo de criação de instância abaixo.
 >
 > ```java
-> Celular motorolaX2G = new Celular();
+>    Celular motorolaX2G = new Celular();
 > ```
 >
 > Toda vez que você encontrar um trecho de código com a palavra reservada `new <TipoClasse>()`, no caso representado pelo `new Celular()`, significará que uma instância daquela classe será criada na Memória _**Heap**_ do Java, conforme imagem abaixo.

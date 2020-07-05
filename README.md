@@ -8,7 +8,7 @@ Tudo de forma descontraída e divertida, afinal aprender precisa ser um prazer n
 
 ## 1. Instale e configure o Java
 
-Aprenda como instalar e configurar a sua maquina, prepare seu ambiente de desenvolvimento para trabalhar com Java.
+Aprenda como instalar e configurar a sua máquina, prepare seu ambiente de desenvolvimento para trabalhar com Java.
 
 ## 2. Crie seu primeiro Programa em Java
 
@@ -109,5 +109,7 @@ Como garantir que seu código realmente funciona, somente testanto, uma vez em u
 
 ## 12. Ganhe poderes com Generics
 
-## 13. Ganhe produtividade com Streams
+## 13. Conheça as Annotations
+
+## 14. Ganhe produtividade com Streams
 

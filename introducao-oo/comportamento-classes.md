@@ -16,3 +16,12 @@ Nossa com os smart phones esta lista fica monstruosa né, bom mas é um bom exem
 
 Vamos ver como podemos representa-los através nossa classe **`Celular`**
 
+```java
+class Celular {
+
+    Long numero;
+    
+
+}
+```
+
